@@ -1,6 +1,10 @@
-#Pi in the Sky project - Engineering 4
-## by Elijah and Max
+##Pi in the Sky project - Engineering 4
+# by Elijah and Max
 
-#Plan
+##Plan
+
+#Objective
+
+#Description
 
 
