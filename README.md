@@ -20,4 +20,5 @@ The price of helium is pretty high and the other parts can add up. The weight of
 * Alarm buzzer
 * Xbox Controller
 
-![](Blimp_frame.PNG =250x2050)
+![](Blimp_frame.PNG)
+<img src="image" width="70%">
