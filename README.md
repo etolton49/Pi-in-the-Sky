@@ -21,4 +21,4 @@ The price of helium is pretty high and the other parts can add up. The weight of
 * Xbox Controller
 
 ![](Blimp_frame.PNG)
-<img src="image" width="70%">
+<img src="Blimp_frame.PNG" width="70%">
