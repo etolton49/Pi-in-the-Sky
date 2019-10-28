@@ -21,6 +21,9 @@ The price of helium is pretty high and the other parts can add up. The weight of
 * Accelerometer
 * Alarm buzzer
 * Xbox Controller
+## Rough Schematics and Equations
+<img src="Blimp_frame.PNG" width="80%">
+
 ## Schedule
 * Week 1(October 28): Figure out how to control motors with xbox controller, create a basic design for blimp
 * Week 2:Finish with xbox controller, continue on design, start on code to store data
