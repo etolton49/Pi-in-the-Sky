@@ -25,11 +25,16 @@ The price of helium is pretty high and the other parts can add up. The weight of
 <img src="75C22DD9-4361-48F5-8394-BCE06E49980E.jpeg" width="80%">
 
 ## Schedule
-* Week 1(October 28): Figure out how to control motors with xbox controller, create a basic design for blimp
+* Week 1(October 28):Figure out how to control motors with xbox controller, create a basic design for blimp
 * Week 2:Finish with xbox controller, continue on design, start on code to store data
 * Week 3:Start on PCB, work on code for accelerometer, finish preliminary design
 * Week 4:Work on PCB, test ways to seal mylar for the blimp, start cutting out frame, work on code
 * Week 5:Finish PCB, start assembling frame and test covering it, start on final code
-* Week 6:Work on final code, finish frame and cover, 
-* Week 7:
+* Week 6:Work on final code, continue on frame
+* Week 7:Work on final code, finish first frame design
+* Week 8:Work on final code, test filling the blimp and see if it floats
+* Week 9:Work on final code, redesign/edit frame and covering
+* Week 10:Test blimp flight, test code
+* Week 11:Test code and flight
+* Week 12:Final flight and dropping with full code.
 <img src="Blimp_frame.PNG" width="80%">
