@@ -38,3 +38,6 @@ The price of helium is pretty high and the other parts can add up. The weight of
 * Week 11:Test code and flight
 * Week 12:Final flight and dropping with full code.
 <img src="Blimp_frame.PNG" width="80%">
+
+## Changes
+* Custom mylar balloon to buying weather balloon: We realized that creating a custom Mylar balloon would be a lot more difficult than we originally thought, especially sealing it. So, instead we are planning to buy a large weather balloon, and we're going to expand it into the blimp cage so we can get the correct dimensions for the blimp.
