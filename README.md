@@ -45,3 +45,8 @@ The price of helium is pretty high and the other parts can add up. The weight of
 # The Blimp
 ## Code
 We wrote all of our code in Python. Our code utilizes the `evdev` library to read the inputs from an Xbox One S wireless controller connected to the Pi via bluetooth. Next we send the data from the controller to the three DC motors, two can only go one direction (right and left), and one is hooked up to a L293D Dual H-Bridge so it can go two directions (for up and down). Using `threading`, we can also collect data from the accelerometer and altimeter simultaneously with controlling the motors. We're using an **Adafruit LSM303 Accelerometer** and an **Adafruit BMP100 Altimeter**. Then, using the `csv` library, we can take all the data we've collected and store it in a .csv file saved on the pi, which we can use to create spreadsheets or any visual representation of the *x*, *y*, and *z acceleration*, as well as the *temperature*, *pressure*, and *altitude* of the flight. [Here's the code](https://github.com/etolton49/Pi-in-the-Sky/blob/master/Pi_in_sky.py)
+
+## PCB
+In order to make the blimp move and collect data, we first needed to build a circuit that powered 3 DC motors and used 2 sensors. We first created a motor circuit controlling 2 DC motors with transistors, and 1 DC motor with an L293D dual H-bridge, so that we could spin the motor clockwise and counter-clockwise to lift or lower the blimp. Then we chose 2 sensors to attach to the blimp: an LSM303 accelerometer and a BMP180 barometric sensor. Once the ciruit was built, we realized we needed to create a PCB to minimize the space this circuit takes up.
+### The process
+One thing that made this PCB especially
