@@ -78,7 +78,7 @@ for event in dev.read_loop():
             if Button.keycode[1] == "BTN_Y":
                 #open flight data sheet
                 print("Saving...")
-                with open(file_name, mode='w') as flight_data:
+                with open(file_name, mode='a+') as flight_data:
                     flight_writer = csv.writer(flight_data, delimiter=',')
                     #looping through tuples in list and storing into csv file
                     for (x,y,z,t,p,a) in sensor_data:
